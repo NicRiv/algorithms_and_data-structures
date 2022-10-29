@@ -1,6 +1,7 @@
 /**
  * SETS
  * 
+ * (Data structure)
  */
 
 const mySet = function () {
